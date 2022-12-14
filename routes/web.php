@@ -13,11 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/home', function () {
-    return view('home');
+Route::get('/', function () {
+    return view('/');
 });
 
 Route::resource(
-    'home',
+    '/',
     App\Http\Controllers\HomeController::class
 );
