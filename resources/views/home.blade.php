@@ -55,10 +55,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h1 class="text-light text-center mb-0">Ristoranti</h1>
+                    <h1 class="text-light text-center mb-0"> Restaurant</h1>
                     <h2 class="text-light text-center mb-3 mt-1">
-                        Scopri i nostri 4 ristoranti a Roma, siamo nei quartieri più belli della città:
-                        Parioli, Trastevere, Prati, Cassia
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, dolores similique. Unde modi
+                        soluta, explicabo optio, amet iste quae, ea blanditiis natus suscipit ullam expedita voluptatibus
+                        perferendis deserunt nihil nam!
                     </h2>
                 </div>
             </div>
@@ -81,11 +82,12 @@
             <div class="row">
                 <div class="col-12">
                     <h1 class="text-light text-center mb-0">
-                        Chopstick World
+                        Gallery Section
                     </h1>
                     <h2 class="text-light text-center mb-3 mt-1">
-                        Scopri il nostro mondo, visita la gallery e vivi la magia
-                        della nostra cucina in una atmosfera davvero unica
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, dolores similique. Unde modi
+                        soluta, explicabo optio, amet iste quae, ea blanditiis natus suscipit ullam expedita voluptatibus
+                        perferendis deserunt nihil nam!
                     </h2>
                     <div class="card-group">
                         @foreach ($restaurants as $restaurant)
